@@ -17,7 +17,7 @@ I designed it to be:
   - React
   - Tailwind CSS
   - ShadCN UI
-  - V0
+  
 
 Sections included:
 - 🔥 Hero – attention-grabbing entrance with animation
