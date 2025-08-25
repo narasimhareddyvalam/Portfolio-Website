@@ -45,9 +45,11 @@ Sections included:
 
 Want a little magic? Try typing:
 
----
-
-- `boom`
-- `matrix`
-- `disco`
+- **boom**
+- **matrix**
+- **disco**
 - Or even the classic Konami Code:
+↑ ↑ ↓ ↓ ← → ← → b a
+
+
+---
