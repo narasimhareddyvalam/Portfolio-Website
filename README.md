@@ -1,9 +1,21 @@
-# ⚡️ My Interactive Portfolio Website
+# ⚡ Experimental Portfolio Website (V0 Prototype)
 
-Welcome to my digital playground 👾—a portfolio site that’s more than just a resume. Built using [V0.dev](https://v0.dev), this site is bold, animated, slightly rebellious, and full of Easter eggs for those curious enough to poke around.
+This is **not my main portfolio site**.  
+It was created as an **experiment for my Branding & AI course**, testing **V0.dev** for rapid web design.
+
+---
+
+## 📝 Context
+- Built entirely in **V0.dev** (AI-powered design tool)  
+- Explores branding, colors, and animation concepts  
+- Used as part of my **INFO7375: Branding & AI** coursework  
+
+---
 
 ## 🌐 Live Site  
 [👉 Check it out here] https://v0-tailwind-portfolio-website-89w7tc.vercel.app/
+
+---
 
 ## 💡 About This Site
 
@@ -18,6 +30,7 @@ I designed it to be:
   - Tailwind CSS
   - ShadCN UI
   
+---
 
 Sections included:
 - 🔥 Hero – attention-grabbing entrance with animation
@@ -26,9 +39,13 @@ Sections included:
 - 🏆 Certifications – flipping cards, because why not
 - 💌 Contact – friendly, functional, and ready to connect
 
+---
+
 ## 🎮 Hidden Fun (a.k.a. Cheat Codes)
 
 Want a little magic? Try typing:
+
+---
 
 - `boom`
 - `matrix`
